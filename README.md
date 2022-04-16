@@ -35,7 +35,7 @@ Updated Analysis
 
 ## Summary: 
 In summary, updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs did not have a significant impact on the ranking of Thomas High School. As follows are the four changes that could be noted in the updated analysis:
-    - For Thomas High School the average math scores dropped slightly while the reading scores got better by a very small margin
-    - % math, % reading and % overall passing results for Thomas High School dropped slightly
-    - % math, % reading and % overall passing results for the school district dropped slightly
-    - Thomas High School is now behind the Griffin High School for % of students that passed reading
+- For Thomas High School the average math scores dropped slightly while the reading scores got better by a very small margin
+- % math, % reading and % overall passing results for Thomas High School dropped slightly
+- % math, % reading and % overall passing results for the school district dropped slightly
+- Thomas High School is now behind the Griffin High School for % of students that passed reading
